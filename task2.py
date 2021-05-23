@@ -2,7 +2,7 @@ import cv2
 #import numpy as np
 
 #Task 2. To save/write the image in the system
-
+########
 #We will use:
 
 #Code:
