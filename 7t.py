@@ -1,6 +1,6 @@
 import numpy as np
 import cv2
-
+###################
 #Task 7. Create Blank Black/White Image using numpy
 
 white_img = np.ones((512,512,3), dtype=np.uint8) * 255
